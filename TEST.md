@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     subgraph Sumber Data OLTP
         A[Sistem POS] --> B(Ekstrak Data Penjualan)
